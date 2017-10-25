@@ -1,3 +1,4 @@
-function main() {
-  document.querySelector(".test").innerHTML = "SUPREME";
-}
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+});
