@@ -123,3 +123,37 @@
         margin-right: 0;
     }
 }
+
+/*
+
+*/
+#header {
+  background: url(../assets/header-img.jpeg);
+  background-position: center right;
+  background-attachment: fixed;
+  background-size: cover;
+  padding: 300px 0px;
+  color: white;
+}
+
+/*
+
+*/
+#box-features {
+  padding: 300px 0px;
+  color: white;
+  background-color: #1E88E5;
+}
+
+/*
+
+*/
+#subscription-steps {
+  padding: 300px 0px;
+  color: white; 
+  background-color: #8E24AA;
+}
+
+.container-fluid {
+      text-align: center;
+}
